@@ -169,6 +169,19 @@ module.exports = [{
         },
         tech_stack: ['JavaScript', 'TypeScript', 'NodeJS', 'PHP', 'VueJS'],
         hired: false
+    },
+    {
+        name: 'Elkin Khunsu',
+        status: 'Fulltime, Remote',
+        role: 'Software Developer',
+        location: 'Jakarta',
+        social_media: {
+            Linkedin: 'https://www.linkedin.com/in/elkinkhunsu/',
+            Github: 'https://github.com/elkhunsu',
+        },
+        tech_stack: ['PHP', 'Javascript', 'NodeJS', 'Yii2', 'Typescript'],
+        hired: false
     }
+
 
 ];
